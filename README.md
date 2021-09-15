@@ -1,23 +1,19 @@
-- 👋 Hi, I’m @Murtazaaly01
-- 👀 I’m interested in tg
-- 🌱 I’m currently learning python ...
-- 💞️ I’m looking to collaborate on telegram bots...
-- 📫 How to reach me @Murtazaaly01 ...
+### Hi there 👋
 
-<!---
-Murtazaaly01/Murtazaaly01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-<!-- Icons -->
+Hope you all enjoy the work.
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+![snake gif](https://github.com/Murtazaaly01/Murtazaaly01/raw/output/github-contribution-grid-snake.sv
 
-<!-- Links to your social media accounts -->
+## GitHub Stats 🌟
 
-[1]: https://twitter.com/Murtazaaly01 
-[2]: https://t.me/Murtazaaly01
+![Murtaza's github stats](https://github-readme-stats.vercel.app/api?username=Murtazaaly01&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murtazaaly01&layout=compact)](https://github.com/Murtazaaly01/github-readme-stats)
+![counter](https://komarev.com/ghpvc/?username=Murtazaaly01&style=flat-square)
+
+
+## Social Profiles ♥️
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Murtazaaly01)

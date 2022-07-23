@@ -14,7 +14,7 @@
 
 <details>
  <summary><b>Github Streaks</b></summary>
-<p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dishapatel010&theme=highcontrast" alt="dishapatel010" /></p>
+<p align="Left"><img src="http://github-readme-streak-stats.herokuapp.com?user=Murtazaaly01&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="dishapatel010" /></p>
 </details>
 
 

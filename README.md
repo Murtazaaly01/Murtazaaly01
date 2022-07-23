@@ -6,7 +6,8 @@
 
 ![snake gif](https://raw.githubusercontent.com/Murtazaaly01/Murtazaaly01/output/github-contribution-grid-snake.svg) 
 
-## Random joke 😂
+## Random joke XD
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## GitHub Stats 🌟

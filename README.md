@@ -31,4 +31,4 @@
 <p>
 
 ## Playing on Spotify 🎧🎶
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ddmuhinhowpqh3dryvi6rwhpei&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true) 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ddmuhinhowpqh3dryvi6rwhpei&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true)

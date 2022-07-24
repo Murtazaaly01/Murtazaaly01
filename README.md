@@ -28,3 +28,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Murtazaaly01)
 <!-- Markdown -->
 
+<p>
+
+## Playing on Spotify 🎧🎶
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ddmuhinhowpqh3dryvi6rwhpei&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true) 
